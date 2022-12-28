@@ -1,4 +1,4 @@
-# <Tutorial How to setup a Medusa Server >
+# < How to setup a Medusa Server >
 
 This repository is the codebase of tutorial [Tutorial Name](tutorial-link).
 
