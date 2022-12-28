@@ -20,7 +20,7 @@ _You may change these steps per your article._
 1. Clone this repository:
 
 ```bash
-git clone <https://github.com/AbuTuraab?tab=repositories>
+git clone <https://github.com/AbuTuraab/my-new-server>
 ```
 
 2. Change directory and install dependencies:
